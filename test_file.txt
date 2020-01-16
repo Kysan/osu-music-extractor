@@ -1,0 +1,10 @@
+[General]
+AudioFilename: 08 - Moon Light Wave.mp3
+AudioLeadIn: 0
+PreviewTime: 45694
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 0
