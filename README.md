@@ -1,1 +1,3 @@
-"# osu-music-extractor" 
+# Osu music extractor
+
+![](osumusicextractordemo.gif)
